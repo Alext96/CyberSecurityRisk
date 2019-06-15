@@ -1,0 +1,8 @@
+place chromedriver in same folder as project
+
+requirements:
+selenium
+chromedriver
+time
+selenium.common.exceptions
+BeatifulSoup bs4
